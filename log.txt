@@ -1,0 +1,473 @@
+commit e5325a38f462243f1654a85a95c7fd51bf0eb1cc
+Merge: e16890d 32495ef
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 22:39:19 2022 -0600
+
+    pulled master changes
+
+commit e16890d052847b7d9df45311c273b990e0ce0d78
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 22:34:45 2022 -0600
+
+    minor adjustments
+
+commit 32495ef49683ea5f27ece6270bb7528d3ae09402
+Merge: 0579bd4 c5ea159
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Mon Apr 25 22:32:27 2022 -0600
+
+    Merge pull request #20 from tejaspatel-spt/parth
+    
+    Imported confirmed cases as data frame.
+
+commit c5ea1597437cb31441158b4e096aa4f74966c8a1
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Mon Apr 25 22:31:41 2022 -0600
+
+    Imported confirmed cases as data frame.
+
+commit 0579bd49fa290fe8018c9f6d81c3817ee3ee4c67
+Merge: 8c3c3bc 7847fc6
+Author: Ishan-Savant <99423781+Ishan-Savant@users.noreply.github.com>
+Date:   Mon Apr 25 22:20:47 2022 -0600
+
+    Merge pull request #19 from tejaspatel-spt/ishan
+    
+    Ishan
+
+commit 7847fc652efe180647702b314ec5250154d1b07c
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 22:20:01 2022 -0600
+
+    Imported Deaths Dataset into dataframe
+
+commit 688e70d19b1f43a29bb88a20e3591209d73561bf
+Merge: 72fa5fd 8c3c3bc
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 22:06:47 2022 -0600
+
+    resolved conflicts
+
+commit 72fa5fdb80bc0ebe1516c24e5083231db66f58de
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 21:54:48 2022 -0600
+
+    Saving Local Changes
+
+commit 8c3c3bc4280c5ea47e339418c314b4d7b07a0a4f
+Merge: 8874c07 ec4a460
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Mon Apr 25 21:53:29 2022 -0600
+
+    Merge pull request #18 from tejaspatel-spt/tejas
+    
+    Tejas
+
+commit ec4a460f9d4df1ec9b428f69cb71e85d68b2aba3
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 21:52:36 2022 -0600
+
+    pulled master changes
+
+commit 2450627fbb3ef9c335d01fd3ff919ec21ae0a5d3
+Merge: 301c753 8874c07
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 21:51:54 2022 -0600
+
+    Merge branch 'master' of https://github.com/tejaspatel-spt/python-project into tejas
+
+commit 301c753a5d1c682c05cb241106a06d8a17d49e23
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 21:51:30 2022 -0600
+
+    creating final jupyter file
+
+commit 8874c07e8daf3a6ff80cc0d7036a934f90c12298
+Merge: 6f59ef2 2f697a3
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Mon Apr 25 21:47:32 2022 -0600
+
+    Merge pull request #17 from tejaspatel-spt/parth
+    
+    Conirmed.csv Updated
+
+commit 2f697a3164d52cc3cb85ef66695804f9b7ae3f02
+Merge: 68ce7f2 6f59ef2
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Mon Apr 25 21:47:25 2022 -0600
+
+    Merge branch 'master' into parth
+
+commit 68ce7f218619a8c2b1cdda02399fbaeebd599cd9
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Mon Apr 25 21:41:40 2022 -0600
+
+    Conirmed.csv Updated
+
+commit 84ba4dcd60579dbf8f1370d8537f1487c8deada8
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Mon Apr 25 21:35:13 2022 -0600
+
+    Conirmed.csv Updated
+
+commit e270ef86e9115662c6fa8b4bd70425866fba8cd8
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 19:50:32 2022 -0600
+
+    fixed date issue
+
+commit 70163e8a6687406df1978c8dec832ba5aa5c3605
+Merge: 928bd00 6f59ef2
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 18:29:48 2022 -0600
+
+    fixed issues
+
+commit 6f59ef254e57251a31433bceb9b84cdd4ea92e47
+Merge: 448e780 7ef7a2b
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Mon Apr 25 18:26:26 2022 -0600
+
+    Merge pull request #16 from tejaspatel-spt/ishan
+    
+    Updated Deaths.CSV to reflect relative stock data
+
+commit 7ef7a2b664050fe0adb4b1ddb22733e99687fc44
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 18:23:13 2022 -0600
+
+    Updated Deaths.CSV to reflect relative stock data
+
+commit 928bd0044b7e1fd5c874c19fa2738e4012681d9e
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 17:30:39 2022 -0600
+
+    fixed issues and merged all 3 df's alltogether
+
+commit 448e7801257b06372cdb21dc66cd0b70f2a204d9
+Merge: b316ed2 cdd5def
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Mon Apr 25 14:58:22 2022 -0600
+
+    Merge pull request #15 from tejaspatel-spt/tejas
+    
+    Tejas
+
+commit cdd5def79067da220f62d2d6e85529a2c6f36cfa
+Merge: 5b5086a b316ed2
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 14:54:31 2022 -0600
+
+    resolved conflicts
+
+commit 5b5086a6dcfc50e82c747849e2d4922529c6cd13
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 14:52:21 2022 -0600
+
+    WIP dataframe manipulation
+
+commit b316ed2b8dde2b357a4118066b91ae814c9fd460
+Merge: a886768 f7d6c34
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Mon Apr 25 14:51:27 2022 -0600
+
+    Merge pull request #14 from tejaspatel-spt/ishan
+    
+    Ishan
+
+commit f7d6c344be16dbd0149ea83c6c674c396402f6cd
+Merge: 12bd52c a886768
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 14:48:44 2022 -0600
+
+    Merge branch 'master' of https://github.com/tejaspatel-spt/python-project into ishan
+
+commit 12bd52c7bb994a9aeedf45931a1b9f841b3679bf
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Mon Apr 25 14:47:50 2022 -0600
+
+    Updated CSV Files
+
+commit 1f58abef7ea8ade2f919326721fdba36d06d3c30
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Mon Apr 25 05:30:07 2022 -0600
+
+    fixed issues
+
+commit 79a7f08ea475549d9a2316fddebbef31ceb20a60
+Merge: 1717363 a886768
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sun Apr 24 23:56:45 2022 -0600
+
+    Merge branch 'master' of https://github.com/tejaspatel-spt/python-project into tejas
+
+commit 1717363f64b1549736ec894fb309110c86c167b5
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sun Apr 24 23:56:32 2022 -0600
+
+    WIP chart for stockes
+
+commit a886768047e3685fb46ec033409c48cba346d6dd
+Merge: f85e855 323a3f8
+Author: Ishan-Savant <99423781+Ishan-Savant@users.noreply.github.com>
+Date:   Sun Apr 24 23:49:26 2022 -0600
+
+    Merge pull request #13 from tejaspatel-spt/ishan
+    
+    Ishan
+
+commit 323a3f8e7b6a92a03e4ac6178fb918867aecf900
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 23:48:33 2022 -0600
+
+    Updated deaths visuals with proper name
+
+commit bac681ca3bb6adeecf52af4e27118b4f4cd1b5e1
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 23:44:05 2022 -0600
+
+    Updated code with plots
+
+commit f85e8558b60c305c1a5cbf99118f9bb781185a47
+Merge: 5ad3a98 726488a
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 23:41:13 2022 -0600
+
+    Merge pull request #12 from tejaspatel-spt/parth
+    
+    parth.ipynb updated.
+
+commit 726488a355bdc3ac93c6d157c6636883debbd3d5
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 23:40:20 2022 -0600
+
+    parth.ipynb updated.
+
+commit 5ad3a9851a08429308ee36631704a69eea8a1a8f
+Merge: d15951b 2b349e0
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 22:53:23 2022 -0600
+
+    Merge pull request #11 from tejaspatel-spt/parth
+    
+    Confirmed.csv data Transpose
+
+commit 2b349e0704d43591b1d0bf47dcf40adca7a5d5e2
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 22:49:17 2022 -0600
+
+    Confirmed.csv data Transpose
+
+commit d15951b0d732deffd9a8e85b219b4508287b04aa
+Merge: 0f08619 745cfa0
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 22:44:35 2022 -0600
+
+    Merge pull request #10 from tejaspatel-spt/parth
+    
+    Parth
+
+commit 745cfa0ebeca343117b92a9a32e698808c71b5ea
+Merge: 9b6943b 0f08619
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 22:44:13 2022 -0600
+
+    Merge branch 'master' into parth
+
+commit 9b6943b5118d0de8a33a044f9f5e934382c3e3ce
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 22:35:57 2022 -0600
+
+    Confirmed.csv Location deleted countries deleted except US and Canada
+
+commit b75bdd08c1718e855da28f76128228164f7f636c
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 22:29:51 2022 -0600
+
+    Confirmed.csv Location deleted countries deleted except US and Canada
+
+commit 0f08619b58f6c38830d8c0eac4a277e36bf228b0
+Merge: f1a8513 7105f2a
+Author: Ishan-Savant <99423781+Ishan-Savant@users.noreply.github.com>
+Date:   Sun Apr 24 22:20:08 2022 -0600
+
+    Merge pull request #9 from tejaspatel-spt/ishan
+    
+    updated csv files with proper data and removed unwanted data
+
+commit 7105f2a7d3e2c7931899d7e946ad47abf2024dc8
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 22:15:13 2022 -0600
+
+    Removed unwanted data from csv, kept only data from canada and US updated
+
+commit 81239353500e19cdb125c70cc6ed25118475fead
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 22:13:47 2022 -0600
+
+    Removed unwanted data from csv, kept only data from canada and US
+
+commit 3ba5eecdbdf399509cf49997bacacaf3c380cad1
+Merge: 700095c f1a8513
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 18:04:37 2022 -0600
+
+    Merged master and resolved conflicts
+
+commit 700095cb9bbcb261bec4ab4798a51493495f93d5
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 18:03:35 2022 -0600
+
+    resolving errors
+
+commit f1a85130eec96db4309fed9171c89f11d913791c
+Merge: a65c8d9 b00c9b2
+Author: Ishan-Savant <99423781+Ishan-Savant@users.noreply.github.com>
+Date:   Sun Apr 24 17:58:26 2022 -0600
+
+    Merge pull request #8 from tejaspatel-spt/ishan
+    
+    Updated Confirmed Cases
+
+commit b00c9b203db250a0c9660b6639d7672451b35168
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 17:56:30 2022 -0600
+
+    Updated Confirmed Cases
+
+commit 36a82a9a79e6685d002e0a29e9474ee16886727d
+Merge: 4881700 a65c8d9
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sun Apr 24 17:45:00 2022 -0600
+
+    resolved divergent changes
+
+commit a65c8d9470203b315fd087b0c79ce59141a95871
+Merge: 35c20b1 5f5e349
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Sun Apr 24 15:05:36 2022 -0600
+
+    Merge pull request #7 from tejaspatel-spt/ishan
+    
+    modified main csv file
+
+commit 5f5e349b8c0741ab1dd741806b6196c250f20080
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 15:04:41 2022 -0600
+
+    modified main csv file
+
+commit 4881700c2fb6dd53e0b37153a5d4902efc1ac8df
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sun Apr 24 14:32:38 2022 -0600
+
+    comments for stock symbols
+
+commit 35c20b1d2672f424f95d138a2fa2814fd11e0c4f
+Merge: 5b27c53 3610ad0
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Sun Apr 24 14:29:36 2022 -0600
+
+    Merge pull request #6 from tejaspatel-spt/ishan
+    
+    modified main csv file, ipynb and resolved conflicts
+
+commit 3610ad0269b6b5a0ef21e473553cf15ee5058b3e
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 14:28:37 2022 -0600
+
+    modified main csv file, ipynb and resolved conflicts
+
+commit 5b27c5393e306931c6006207a9e6799c4f6d6091
+Merge: af0a194 803ef6d
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Sun Apr 24 13:38:22 2022 -0600
+
+    Merge pull request #5 from tejaspatel-spt/ishan
+    
+    Ishan
+
+commit 803ef6de2079596c8a33d4c3cea19028a82c0dcd
+Merge: 3ac155e af0a194
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 13:37:34 2022 -0600
+
+    modified main ipynb and resolved conflicts
+
+commit 3ac155e9c0848d45aa3ee47d3428a4f37511c4c6
+Author: Ishan Savant <savant1084@saskpolytech.ca>
+Date:   Sun Apr 24 13:30:12 2022 -0600
+
+    Updated the Deaths Data file, allong with creating a dataframe for covid death visuals
+
+commit af0a1941655a95e3bfba0f56cce8ddfec39a7f04
+Merge: 15aa542 786d530
+Author: tejaspatel-spt <103456837+tejaspatel-spt@users.noreply.github.com>
+Date:   Sun Apr 24 13:26:14 2022 -0600
+
+    Merge pull request #4 from tejaspatel-spt/tejas
+    
+    new file and dataframes of 5 stocks
+
+commit 786d5309a74c6c7f2f20074607879e112374cc74
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sun Apr 24 13:23:59 2022 -0600
+
+    new file and dataframes of 5 stocks
+
+commit 15aa5420cc7eeb0215aadb54c0454a7548392325
+Merge: 8469044 dcc1cda
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 01:29:20 2022 -0600
+
+    Merge pull request #3 from tejaspatel-spt/parth
+    
+    Confirmed.csv created
+
+commit dcc1cda1d4847e572ffa56bbfb8a745d7b1aff22
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 01:25:46 2022 -0600
+
+    Confirmed.csv created
+
+commit 846904414f169c9a85faf8ee69263db3da117535
+Merge: 5d4b6e8 03d17ec
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sun Apr 24 01:20:25 2022 -0600
+
+    Merge pull request #2 from tejaspatel-spt/parth
+    
+    Data created
+
+commit 03d17eced0db35840c28d00256b5f80dab539e3d
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sun Apr 24 01:18:56 2022 -0600
+
+    Data created
+
+commit 5d4b6e8da7df4ac9fe46e52d27026680b80eabdf
+Merge: 6489a3b b7114fb
+Author: Parth-spt <104024700+Parth-spt@users.noreply.github.com>
+Date:   Sat Apr 23 15:14:47 2022 -0600
+
+    Merge pull request #1 from tejaspatel-spt/parth
+    
+    Numpy added
+
+commit b7114fbf284c71827f8b8baeb99aca19677be5e4
+Author: Parth Patel <patel2322@saskpolytech.ca>
+Date:   Sat Apr 23 15:11:24 2022 -0600
+
+    Numpy added
+
+commit 6489a3bfb23ae28ee71b9a8065c73206f645fe9c
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sat Apr 23 15:01:20 2022 -0600
+
+    added imports
+
+commit 33198f8f2c05a9161ce626333c5c4c54fe736cec
+Author: tejas patel <patel0759@saskpolytech.ca>
+Date:   Sat Apr 23 02:11:35 2022 -0600
+
+    readme file added
